@@ -1,4 +1,5 @@
-Episodes[
+{
+"Episodes": [
 {
 "Id": "V001",
 "ProgramId": "",
@@ -50,7 +51,7 @@ Episodes[
 "CreateTime": "06/22/2016"
 },
 {
-"Id": "V006,
+"Id": "V006",
 "ProgramId": "",
 "Title:": "Titanic",
 "Description": "It's a long day, without you my friend",
@@ -60,7 +61,7 @@ Episodes[
 "CreateTime": "06/22/2016"
 },
 {
-"Id": "V007,
+"Id": "V007",
 "ProgramId": "",
 "Title:": "The Hulk",
 "Description": "It's a long day, without you my friend",
@@ -70,7 +71,7 @@ Episodes[
 "CreateTime": "06/22/2016"
 },
 {
-"Id": "V008,
+"Id": "V008",
 "ProgramId": "",
 "Title:": "Life of Pi",
 "Description": "It's a long day, without you my friend",
@@ -80,7 +81,7 @@ Episodes[
 "CreateTime": "06/22/2016"
 },
 {
-"Id": "V009,
+"Id": "V009",
 "ProgramId": "",
 "Title:": "Ready player one",
 "Description": "It's a long day, without you my friend",
@@ -90,7 +91,7 @@ Episodes[
 "CreateTime": "06/22/2016"
 },
 {
-"Id": "V0010
+"Id": "V0010",
 "ProgramId": "",
 "Title:": "The Witcher",
 "Description": "It's a long day, without you my friend",
@@ -100,7 +101,7 @@ Episodes[
 "CreateTime": "06/22/2016"
 },
 {
-"Id": "V0011
+"Id": "V0011",
 "ProgramId": "",
 "Title:": "CoCo",
 "Description": "It's a long day, without you my friend",
@@ -110,7 +111,7 @@ Episodes[
 "CreateTime": "06/22/2016"
 },
 {
-"Id": "V0012,
+"Id": "V0012",
 "ProgramId": "",
 "Title:": "See you again",
 "Description": "It's a long day, without you my friend",
@@ -118,5 +119,6 @@ Episodes[
 "VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
 "CreateBy": "Some one",
 "CreateTime": "06/22/2016"
-},
+}
 ]
+}
