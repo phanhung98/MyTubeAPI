@@ -1,124 +1,237 @@
 {
+"Programs": [
+{
+"ProgramId": "P001",
+"Title:": "See you again",
+"Description": "It's a long day, without you my friend",
+"ImageUrl": "https://i.ytimg.com/vi/eF51Xr5JUNw/maxresdefault.jpg",
+"VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
+"CreateBy": "Some one",
+"CreateTime": "06/22/2016",
 "Episodes": [
 {
-"Id": "V001",
-"ProgramId": "",
-"Title:": "See you again",
-"Description": "It's a long day, without you my friend",
-"ImageUrl": "https://i.ytimg.com/vi/eF51Xr5JUNw/maxresdefault.jpg",
-"VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
-"CreateBy": "Some one",
-"CreateTime": "06/22/2016"
+"VideoId": "V001",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
 },
 {
-"Id": "V002",
-"ProgramId": "",
-"Title:": "We are one",
-"Description": "It's a long day, without you my friend",
-"ImageUrl": "https://i.ytimg.com/vi/eF51Xr5JUNw/maxresdefault.jpg",
-"VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
-"CreateBy": "Some one",
-"CreateTime": "06/22/2016"
+"VideoId": "V002",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
 },
 {
-"Id": "V003",
-"ProgramId": "",
-"Title:": "Jonh Wick",
-"Description": "It's a long day, without you my friend",
-"ImageUrl": "https://i.ytimg.com/vi/eF51Xr5JUNw/maxresdefault.jpg",
-"VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
-"CreateBy": "Some one",
-"CreateTime": "06/22/2016"
+"VideoId": "V003",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
 },
 {
-"Id": "V004",
-"ProgramId": "",
-"Title:": "Avatar",
-"Description": "It's a long day, without you my friend",
-"ImageUrl": "https://i.ytimg.com/vi/eF51Xr5JUNw/maxresdefault.jpg",
-"VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
-"CreateBy": "Some one",
-"CreateTime": "06/22/2016"
+"VideoId": "V004",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
 },
 {
-"Id": "V005",
-"ProgramId": "",
-"Title:": "End game",
-"Description": "It's a long day, without you my friend",
-"ImageUrl": "https://i.ytimg.com/vi/eF51Xr5JUNw/maxresdefault.jpg",
-"VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
-"CreateBy": "Some one",
-"CreateTime": "06/22/2016"
+"VideoId": "V005",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
 },
 {
-"Id": "V006",
-"ProgramId": "",
-"Title:": "Titanic",
-"Description": "It's a long day, without you my friend",
-"ImageUrl": "https://i.ytimg.com/vi/eF51Xr5JUNw/maxresdefault.jpg",
-"VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
-"CreateBy": "Some one",
-"CreateTime": "06/22/2016"
-},
-{
-"Id": "V007",
-"ProgramId": "",
-"Title:": "The Hulk",
-"Description": "It's a long day, without you my friend",
-"ImageUrl": "https://i.ytimg.com/vi/eF51Xr5JUNw/maxresdefault.jpg",
-"VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
-"CreateBy": "Some one",
-"CreateTime": "06/22/2016"
-},
-{
-"Id": "V008",
-"ProgramId": "",
-"Title:": "Life of Pi",
-"Description": "It's a long day, without you my friend",
-"ImageUrl": "https://i.ytimg.com/vi/eF51Xr5JUNw/maxresdefault.jpg",
-"VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
-"CreateBy": "Some one",
-"CreateTime": "06/22/2016"
-},
-{
-"Id": "V009",
-"ProgramId": "",
-"Title:": "Ready player one",
-"Description": "It's a long day, without you my friend",
-"ImageUrl": "https://i.ytimg.com/vi/eF51Xr5JUNw/maxresdefault.jpg",
-"VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
-"CreateBy": "Some one",
-"CreateTime": "06/22/2016"
-},
-{
-"Id": "V0010",
-"ProgramId": "",
-"Title:": "The Witcher",
-"Description": "It's a long day, without you my friend",
-"ImageUrl": "https://i.ytimg.com/vi/eF51Xr5JUNw/maxresdefault.jpg",
-"VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
-"CreateBy": "Some one",
-"CreateTime": "06/22/2016"
-},
-{
-"Id": "V0011",
-"ProgramId": "",
-"Title:": "CoCo",
-"Description": "It's a long day, without you my friend",
-"ImageUrl": "https://i.ytimg.com/vi/eF51Xr5JUNw/maxresdefault.jpg",
-"VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
-"CreateBy": "Some one",
-"CreateTime": "06/22/2016"
-},
-{
-"Id": "V0012",
-"ProgramId": "",
-"Title:": "See you again",
-"Description": "It's a long day, without you my friend",
-"ImageUrl": "https://i.ytimg.com/vi/eF51Xr5JUNw/maxresdefault.jpg",
-"VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
-"CreateBy": "Some one",
-"CreateTime": "06/22/2016"
+"VideoId": "V006",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
 }
 ]
+},
+{
+"ProgramId": "",
+"Title:": "See you again",
+"Description": "It's a long day, without you my friend",
+"ImageUrl": "https://i.ytimg.com/vi/eF51Xr5JUNw/maxresdefault.jpg",
+"VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
+"CreateBy": "Some one",
+"CreateTime": "06/22/2016",
+"Episodes": [
+{
+"VideoId": "V007",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
+},
+{
+"VideoId": "V008",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
+},
+{
+"VideoId": "V009",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
+},
+{
+"VideoId": "V0010",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
+},
+{
+"VideoId": "V0011",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
+}
+]
+},
+{
+"ProgramId": "",
+"Title:": "See you again",
+"Description": "It's a long day, without you my friend",
+"ImageUrl": "https://i.ytimg.com/vi/eF51Xr5JUNw/maxresdefault.jpg",
+"VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
+"CreateBy": "Some one",
+"CreateTime": "06/22/2016",
+"Episodes": [
+{
+"VideoId": "V0012",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
+},
+{
+"VideoId": "V0013",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
+},
+{
+"VideoId": "V0014",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
+},
+{
+"VideoId": "V0015",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
+},
+{
+"VideoId": "V0016",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
+}
+]
+},
+{
+"ProgramId": "",
+"Title:": "See you again",
+"Description": "It's a long day, without you my friend",
+"ImageUrl": "https://i.ytimg.com/vi/eF51Xr5JUNw/maxresdefault.jpg",
+"VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
+"CreateBy": "Some one",
+"CreateTime": "06/22/2016",
+"Episodes": [
+{
+"VideoId": "V0017",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
+},
+{
+"VideoId": "V0018",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
+},
+{
+"VideoId": "V0019",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
+},
+{
+"VideoId": "V0020",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
+},
+{
+"VideoId": "V0021",
+"videoUrl": "",
+"thumnail": "",
+"startDay": "",
+"endDay": "",
+"Title": "",
+"Description": ""
+}
+]
+}
+]  
 }
