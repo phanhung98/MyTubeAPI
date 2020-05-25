@@ -1,0 +1,28 @@
+{
+"genre": [
+{
+"genre_name": "All",
+"key_genre": 0
+},
+{
+"genre_name": "Science",
+"key_genre": 3
+},
+{
+"genre_name": "Humor",
+"key_genre": 5
+},
+{
+"genre_name": "Discovery",
+"key_genre": 3
+},
+{
+"genre_name": "Emotional",
+"key_genre": 1
+},
+{
+"genre_name": "Sport",
+"key_genre": 2
+}
+]
+}
