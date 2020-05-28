@@ -5,6 +5,7 @@
 "Title:": "See you again",
 "Description": "It's a long day, without you my friend",
 "ImageUrl": "https://i.ytimg.com/vi/eF51Xr5JUNw/maxresdefault.jpg",
+"genre":"Sport",
 "VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
 "CreateBy": "Some one",
 "CreateTime": "06/22/2016",
@@ -66,10 +67,11 @@
 ]
 },
 {
-"ProgramId": "",
+"ProgramId": "P002",
 "Title:": "See you again",
 "Description": "It's a long day, without you my friend",
 "ImageUrl": "https://i.ytimg.com/vi/eF51Xr5JUNw/maxresdefault.jpg",
+"genre":"Horror",
 "VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
 "CreateBy": "Some one",
 "CreateTime": "06/22/2016",
@@ -122,10 +124,11 @@
 ]
 },
 {
-"ProgramId": "",
+"ProgramId": "P003",
 "Title:": "See you again",
 "Description": "It's a long day, without you my friend",
 "ImageUrl": "https://i.ytimg.com/vi/eF51Xr5JUNw/maxresdefault.jpg",
+"genre":"Action",
 "VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
 "CreateBy": "Some one",
 "CreateTime": "06/22/2016",
@@ -178,10 +181,11 @@
 ]
 },
 {
-"ProgramId": "",
+"ProgramId": "P004",
 "Title:": "See you again",
 "Description": "It's a long day, without you my friend",
 "ImageUrl": "https://i.ytimg.com/vi/eF51Xr5JUNw/maxresdefault.jpg",
+"genre":"romantic",
 "VideoUrl": "https://www.youtube.com/results?search_query=see+you+again",
 "CreateBy": "Some one",
 "CreateTime": "06/22/2016",
