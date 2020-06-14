@@ -12,7 +12,7 @@
 "Episodes": [
 {
 "VideoId": "V001",
-"videoUrl": "",
+"videoUrl": "https://developers.google.com/training/images/tacoma_narrows.mp4",
 "thumnail": "https://images.wallpaperscraft.com/image/astronaut_spacesuit_meteorites_168734_1600x900.jpg",
 "startDay": "",
 "endDay": "",
@@ -21,7 +21,7 @@
 },
 {
 "VideoId": "V002",
-"videoUrl": "",
+"videoUrl": "https://developers.google.com/training/images/tacoma_narrows.mp4",
 "thumnail": "https://images.wallpaperscraft.com/image/astronaut_spacesuit_meteorites_168734_1600x900.jpg",
 "startDay": "",
 "endDay": "",
@@ -30,7 +30,7 @@
 },
 {
 "VideoId": "V003",
-"videoUrl": "",
+"videoUrl": "https://developers.google.com/training/images/tacoma_narrows.mp4",
 "thumnail": "https://images.wallpaperscraft.com/image/astronaut_spacesuit_meteorites_168734_1600x900.jpg",
 "startDay": "",
 "endDay": "",
@@ -39,7 +39,7 @@
 },
 {
 "VideoId": "V004",
-"videoUrl": "",
+"videoUrl": "https://developers.google.com/training/images/tacoma_narrows.mp4",
 "thumnail": "https://images.wallpaperscraft.com/image/astronaut_spacesuit_meteorites_168734_1600x900.jpg",
 "startDay": "",
 "endDay": "",
@@ -48,7 +48,7 @@
 },
 {
 "VideoId": "V005",
-"videoUrl": "",
+"videoUrl": "https://developers.google.com/training/images/tacoma_narrows.mp4",
 "thumnail": "https://images.wallpaperscraft.com/image/astronaut_spacesuit_meteorites_168734_1600x900.jpg",
 "startDay": "",
 "endDay": "",
